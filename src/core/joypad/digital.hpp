@@ -1,4 +1,4 @@
-#ifndef CORE_JOYPAD_DIGTAL_HPP
+#ifndef CORE_JOYPAD_DIGITAL_HPP
 #define CORE_JOYPAD_DIGITAL_HPP
 
 #include <cstddef>
